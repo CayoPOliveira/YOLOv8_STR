@@ -1,0 +1,12 @@
+names:
+- Invader
+nc: 1
+roboflow:
+  license: Public Domain
+  project: invader-detect
+  url: https://universe.roboflow.com/str-sdcqe/invader-detect/dataset/1
+  version: 1
+  workspace: str-sdcqe
+test: /home/cayo/dev/YOLOv8_STR/invader-detect-1/test/images
+train: /home/cayo/dev/YOLOv8_STR/invader-detect-1/train/images
+val: /home/cayo/dev/YOLOv8_STR/invader-detect-1/valid/images
